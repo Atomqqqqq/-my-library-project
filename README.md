@@ -281,6 +281,8 @@ git commit -m "Мой первый проект: библиотека на Pytho
 
 # Связываем с GitHub (ЗАМЕНИТЕ username на ваш!)
 git remote add origin https://github.com/username/my-library-project.git
+<img width="1042" height="583" alt="image" src="https://github.com/user-attachments/assets/b6c8ab30-4482-4e23-a796-91db78ee4a8c" />
+
 
 # Отправляем код на GitHub
 git push -u origin main
